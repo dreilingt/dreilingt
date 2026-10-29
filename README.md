@@ -13,6 +13,5 @@ I'm a student at Technische Hochschule Köln, and I'm just starting my journey i
 - 🔗 [My GitHub profile](https://github.com/dreilingt)
 - 💼 [My LinkedIn](https://www.linkedin.com/in/tatiana-dreiling)
 
-*Thanks for stopping by!*
 <!--
 -->
