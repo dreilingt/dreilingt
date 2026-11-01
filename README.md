@@ -10,7 +10,6 @@ I'm a student at Technische Hochschule Köln, and I'm just starting my journey i
 
 ## Find me
 
-- 🔗 [My GitHub profile](https://github.com/dreilingt)
 - 💼 [My LinkedIn](https://www.linkedin.com/in/tatiana-dreiling)
 
 <!--
